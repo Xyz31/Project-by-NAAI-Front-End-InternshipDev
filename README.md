@@ -1,16 +1,22 @@
-# naai_project_anime
+# NAAI project for FRONT-END INTERNSHIP
 
-A new Flutter project.
+A new Flutter iOS/Android/Web project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Functionalities for this application
 
-A few resources to get you started if this is your first Flutter project:
+##### 1.	Search Functionality:
+●	Implement a search bar where users can input the name of the anime they want to search for.
+●	Upon entering a query, the application should fetch data from the Jikan API using the provided endpoint (https://api.jikan.moe/v4/anime?q=<name_here>).
+●	Display search results in a scrollable list, showing the anime name, title, URL, and trailer thumbnail (if available).
+##### 2.	Result Representation:
+●	Each search result should display the following information:
+●	Anime name
+●	Title
+●	URL
+●	Trailer thumbnail
+●	The user interface should be visually appealing and intuitive for users to navigate.
+##### 3.	Integration with YouTube:
+●	When a user clicks on a search result, the application should redirect them to the YouTube app or website to watch the trailer.
+●	Ensure smooth transition and handling of any errors or exceptions during redirection.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
