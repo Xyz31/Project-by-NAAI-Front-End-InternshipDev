@@ -6,6 +6,8 @@ A new Flutter iOS/Android/Web project.
 
 Demo videos are available in the folder directory. Check them out for a better understanding of the application's functionality.
 
+https://github.com/Xyz31/Project-by-NAAI-Front-End-InternshipDev/assets/95264887/2701ea93-4619-47c5-8755-6d556f47c93d
+
 ## Functionalities for This Application
 
 ### 1. Search Functionality:
@@ -16,6 +18,9 @@ Demo videos are available in the folder directory. Check them out for a better u
 ### 2. Result Representation:
 - Each search result should display the following information:
   - Anime name
+
+
+
   - Title
   - URL
   - Trailer thumbnail
